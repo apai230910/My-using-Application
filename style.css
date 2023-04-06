@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+#Heading_Div {
+    height: 120px;
+    border-radius: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#Heading_Div h1 {
+    font-size: 75px;
+    font-family: serif;
+}
+
+#Right_Button_1 {
+    margin-top: 70px;
+    margin-right: 200px;
+    border-color: black;
+    border-width: 3px;
+    width: 500px;
+}
+
+#Right_Button_1 p {
+    font-family: serif;
+    font-size: 50px;
+    margin: 3px;
+}
+
+#Left_Button_1 {
+    margin-top: 70px;
+    margin-left: 80px;
+    border-color: black;
+    border-width: 3px;
+}
+
+#Left_Button_1 p {
+    font-family: serif;
+    font-size: 50px;
+    margin: 3px;
+    width: 500px;
+}
